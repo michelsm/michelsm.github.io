@@ -23,7 +23,7 @@ body {
 
 
 .bg-1 {
-		padding-top: 300px;
+	padding-top: 300px;
 	padding-bottom: 300px;
 	background-image: url("city.jpg");
 	background-size: cover;
@@ -32,8 +32,8 @@ body {
 
 .bg-2 {
 	background-color: white;
-	padding-top: 350px;
-    padding-bottom: 350px;
+	padding-top: 150px;
+    padding-bottom: 150px;
 }
 
 .bg-3 {
@@ -42,3 +42,10 @@ body {
     padding-bottom: 350px;
 }
 
+#profile {
+	text-align: center;
+}
+
+.profilepic {
+	width: 75%;
+}
