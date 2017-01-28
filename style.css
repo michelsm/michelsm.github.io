@@ -1,0 +1,44 @@
+body {
+	color: SkyBlue;
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+
+.myname {
+	color: white;
+	font-family: 'Sacramento', cursive;
+	font-size: 100px;
+	text-align: center;
+}
+
+.aboutme {
+	color: black;
+	text-align: center;
+}
+
+.navbar {
+	font-family: 'Dosis', sans-serif;
+}
+
+
+
+.bg-1 {
+		padding-top: 300px;
+	padding-bottom: 300px;
+	background-image: url("city.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.bg-2 {
+	background-color: white;
+	padding-top: 350px;
+    padding-bottom: 350px;
+}
+
+.bg-3 {
+	background-color: gray;
+	padding-top: 350px;
+    padding-bottom: 350px;
+}
+
