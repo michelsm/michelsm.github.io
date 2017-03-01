@@ -45,13 +45,13 @@ body {
 }
 
 .bg-3 {
-	background-color: gray;
-	padding-top: 350px;
-    padding-bottom: 350px;
+	background-color: Gainsboro;
+	padding-top: 180px;
+    padding-bottom: 180px;
 }
 
 .bg-4 {
-	background-color: plum;
+	background-color: DarkCyan;
 	padding-top: 50px;
 	padding-bottom: 50px;
 	font-color: black;
@@ -67,4 +67,17 @@ body {
 
 .teampic {
 	width: 100%;
+}
+
+.button {
+	text-align: center;
+	font: bold 11px Arial;
+  	text-decoration: none;
+  	background-color: #EEEEEE;
+  	color: #333333;
+  	padding: 2px 6px 2px 6px;
+  	border-top: 1px solid #CCCCCC;
+  	border-right: 1px solid #333333;
+  	border-bottom: 1px solid #333333;
+  	border-left: 1px solid #CCCCCC;
 }
