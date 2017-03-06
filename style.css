@@ -6,7 +6,7 @@ body {
 
 .myname {
 	color: white;
-	font-family: 'Handlee', cursive;
+	font-family: 'Simplifica';
 	font-size: 100px;
 	text-align: center;
 }
@@ -55,6 +55,7 @@ body {
 	font-color: black;
 }
 
+
 #profile {
 	text-align: center;
 }
@@ -78,4 +79,13 @@ body {
   	border-right: 1px solid #333333;
   	border-bottom: 1px solid #333333;
   	border-left: 1px solid #CCCCCC;
+}
+
+
+.resume {
+	width: 10%;
+}
+
+.email {
+	width:100%;
 }
